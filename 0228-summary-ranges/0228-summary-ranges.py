@@ -15,9 +15,9 @@ class Solution:
 
         elif len(nums) == 2:
             if nums[1] == nums[0] + 1:
-                return [f'{nums[0]}->{nums[1]}']
+                return [double_print(nums[0], nums[1])]
             else:
-                return [f'{nums[0]}', f'{nums[1]}']
+                return [single_print(nums[0]), single_print(nums[1])]
 
         result = []
 
