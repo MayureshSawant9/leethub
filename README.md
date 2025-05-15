@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MayureshSawant9/leethub/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/MayureshSawant9/leethub/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/MayureshSawant9/leethub/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/MayureshSawant9/leethub/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/MayureshSawant9/leethub/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/MayureshSawant9/leethub/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MayureshSawant9/leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/MayureshSawant9/leethub/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MayureshSawant9/leethub/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/MayureshSawant9/leethub/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/MayureshSawant9/leethub/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/MayureshSawant9/leethub/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/MayureshSawant9/leethub/tree/master/0392-is-subsequence) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MayureshSawant9/leethub/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/MayureshSawant9/leethub/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/MayureshSawant9/leethub/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/MayureshSawant9/leethub/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/MayureshSawant9/leethub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MayureshSawant9/leethub/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/MayureshSawant9/leethub/tree/master/0383-ransom-note) |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/MayureshSawant9/leethub/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/MayureshSawant9/leethub/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/MayureshSawant9/leethub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MayureshSawant9/leethub/tree/master/0242-valid-anagram) |
