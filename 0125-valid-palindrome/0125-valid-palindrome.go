@@ -1,8 +1,7 @@
 import "regexp"
 func isPalindrome(s string) bool {
     pattern := regexp.MustCompile("[^A-Za-z0-9]")
-    phrase := pattern.ReplaceAllString(s, "")
-    phrase = strings.ToLower(phrase)
+    phrase := strings.ToLower(pattern.ReplaceAllString(s, ""))
 
     l, r := 0, len(phrase) - 1
     fmt.Print(phrase)
