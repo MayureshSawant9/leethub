@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/MayureshSawant9/leethub/tree/master/0238-product-of-array-except-self) |
 | [1019-squares-of-a-sorted-array](https://github.com/MayureshSawant9/leethub/tree/master/1019-squares-of-a-sorted-array) |
 | [2350-find-closest-number-to-zero](https://github.com/MayureshSawant9/leethub/tree/master/2350-find-closest-number-to-zero) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/MayureshSawant9/leethub/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/MayureshSawant9/leethub/tree/master/3647-zero-array-transformation-iii) |
 ## Two Pointers
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MayureshSawant9/leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/MayureshSawant9/leethub/tree/master/0392-is-subsequence) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/MayureshSawant9/leethub/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Trie
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MayureshSawant9/leethub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MayureshSawant9/leethub/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/MayureshSawant9/leethub/tree/master/1019-squares-of-a-sorted-array) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/MayureshSawant9/leethub/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/MayureshSawant9/leethub/tree/master/3647-zero-array-transformation-iii) |
 ## Matrix
 |  |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/MayureshSawant9/leethub/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/MayureshSawant9/leethub/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
 |  |
@@ -125,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MayureshSawant9/leethub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/MayureshSawant9/leethub/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Tree
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/MayureshSawant9/leethub/tree/master/3307-find-the-maximum-sum-of-node-values) |
 <!---LeetCode Topics End-->
