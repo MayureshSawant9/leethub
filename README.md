@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/MayureshSawant9/leethub/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/MayureshSawant9/leethub/tree/master/1297-maximum-number-of-balloons) |
 | [1894-merge-strings-alternately](https://github.com/MayureshSawant9/leethub/tree/master/1894-merge-strings-alternately) |
+| [3617-find-the-original-typed-string-i](https://github.com/MayureshSawant9/leethub/tree/master/3617-find-the-original-typed-string-i) |
 ## Hash Table
 |  |
 | ------- |
