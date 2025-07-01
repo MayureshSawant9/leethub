@@ -1,17 +1,17 @@
 class Solution:
     def possibleStringCount(self, word: str) -> int:
+        
+        # 500/700 solution
+        # failed for "ere"
+        
         # unique = set(word)
 
         # return len(word) - len(unique) + 1
 
-        prev = word[0]
         mistakes = 0
-        count = 1
         for i in range(1, len(word)):
-            if word[i] == prev:
+            if word[i] == word[i-1]:
                 mistakes += 1
-            else:
-                count += 1
 
             prev = word[i]
 
