@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MayureshSawant9/leethub/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/MayureshSawant9/leethub/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/MayureshSawant9/leethub/tree/master/0238-product-of-array-except-self) |
+| [0682-baseball-game](https://github.com/MayureshSawant9/leethub/tree/master/0682-baseball-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/MayureshSawant9/leethub/tree/master/1019-squares-of-a-sorted-array) |
 | [2350-find-closest-number-to-zero](https://github.com/MayureshSawant9/leethub/tree/master/2350-find-closest-number-to-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/MayureshSawant9/leethub/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MayureshSawant9/leethub/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/MayureshSawant9/leethub/tree/master/0682-baseball-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MayureshSawant9/leethub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MayureshSawant9/leethub/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/MayureshSawant9/leethub/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
