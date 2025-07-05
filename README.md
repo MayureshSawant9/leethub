@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/MayureshSawant9/leethub/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/MayureshSawant9/leethub/tree/master/0682-baseball-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/MayureshSawant9/leethub/tree/master/1019-squares-of-a-sorted-array) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/MayureshSawant9/leethub/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/MayureshSawant9/leethub/tree/master/2350-find-closest-number-to-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/MayureshSawant9/leethub/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/MayureshSawant9/leethub/tree/master/3647-zero-array-transformation-iii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/MayureshSawant9/leethub/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/MayureshSawant9/leethub/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/MayureshSawant9/leethub/tree/master/1297-maximum-number-of-balloons) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/MayureshSawant9/leethub/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MayureshSawant9/leethub/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/MayureshSawant9/leethub/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/MayureshSawant9/leethub/tree/master/1297-maximum-number-of-balloons) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/MayureshSawant9/leethub/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
