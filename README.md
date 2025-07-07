@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/MayureshSawant9/leethub/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/MayureshSawant9/leethub/tree/master/0682-baseball-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/MayureshSawant9/leethub/tree/master/1019-squares-of-a-sorted-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MayureshSawant9/leethub/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MayureshSawant9/leethub/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/MayureshSawant9/leethub/tree/master/2350-find-closest-number-to-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/MayureshSawant9/leethub/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MayureshSawant9/leethub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MayureshSawant9/leethub/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/MayureshSawant9/leethub/tree/master/1019-squares-of-a-sorted-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MayureshSawant9/leethub/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/MayureshSawant9/leethub/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/MayureshSawant9/leethub/tree/master/3647-zero-array-transformation-iii) |
 ## Matrix
@@ -137,11 +139,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MayureshSawant9/leethub/tree/master/0011-container-with-most-water) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MayureshSawant9/leethub/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/MayureshSawant9/leethub/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/MayureshSawant9/leethub/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MayureshSawant9/leethub/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3647-zero-array-transformation-iii](https://github.com/MayureshSawant9/leethub/tree/master/3647-zero-array-transformation-iii) |
 ## Binary Search
 |  |
