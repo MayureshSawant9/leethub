@@ -11,7 +11,7 @@ class Solution:
                 case '*':
                     return operand1 * operand2
                 case '/':
-                    return operand1 / operand2
+                    return int(operand1 / operand2)
 
         stack = []
         operators = ('+','-','*','/')
@@ -19,14 +19,11 @@ class Solution:
         for token in tokens:
 
             if token not in operators:
-                stack.append(token)
+                stack.append(int(token))
 
             else:
-                num2, num1 = int(stack.pop()), int(stack.pop())
+                num2, num1 = stack.pop(), stack.pop()
                 stack.append(operate(num1, num2, token))
 
 
-        return int(stack[-1])
-
-
-        
+        return int(stack[-1])        
