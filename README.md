@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/MayureshSawant9/leethub/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/MayureshSawant9/leethub/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/MayureshSawant9/leethub/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/MayureshSawant9/leethub/tree/master/0739-daily-temperatures) |
 | [1019-squares-of-a-sorted-array](https://github.com/MayureshSawant9/leethub/tree/master/1019-squares-of-a-sorted-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MayureshSawant9/leethub/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MayureshSawant9/leethub/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -173,10 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/MayureshSawant9/leethub/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MayureshSawant9/leethub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/MayureshSawant9/leethub/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/MayureshSawant9/leethub/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MayureshSawant9/leethub/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/MayureshSawant9/leethub/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
